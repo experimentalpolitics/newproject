@@ -1,3 +1,15 @@
+# data files (NEVER PUSH RAW SURVEY DATA TO GITHUB, IT MAY VIOLATE OUR IRB!)
+*.csv
+*.zip
+*.dta
+*.rdata
+*.rda
+*.RData
+*.rdb
+*.rdx
+*_cache/
+
+
 .Rproj.user
 .Rhistory
 .RData
