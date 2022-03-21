@@ -1,3 +1,10 @@
+# Folder
+data/
+prelim/data
+.DS_Store
+~$*
+
+
 ## R gitignore
 
 # History files
